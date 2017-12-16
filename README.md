@@ -10,3 +10,5 @@ CNN:
 Gin_Rummy_Python: port Gin Rummy java code into Python
 - GinRummyTournamentAI.py: version of GinRummyTournament that use the trained neural network
 - GinRummyTournament.py: original version that use 2 heurestic players
+
+Data can be found at: https://drive.google.com/drive/folders/12eGlFwO6_YvPrC7tqYOEZHmO4BqXucYY?usp=sharing
